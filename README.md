@@ -7,27 +7,7 @@ Now that you've had some practice with HTML and have a project to share, you'll 
 
 If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
 
-### Before you Begin
-
-* Pin some repos that you want to share
-
-  * Navigate to your [GitHub Profile](https://github.com/USERNAME?tab=repositories)
-
-  * Click "Customize your pinned repositories"
-
-  * Click the "Repositories you contribute to" checkbox (this will allow you to "pin" Project 1 even if you aren't the "owner")
-
-  * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
-
-  * Make sure each of these projects is deployed and add a link to the deployed project in their README files
-
-* Revisit your portfolio page
-
-  * Open up your old portfolio page
-
-  * Read through the rest of the homework requirements and decide whether you can update your existing portfolio page or if you want to start fresh now that you've had some more HTML/CSS practice (you may also want to change it to be a single page instead of multiple pages or you might even want to consider using a paid theme)
-
-### Required: Update your Portfolio Site -- Employer Ready
+#### Update your Portfolio Site -- Employer Ready
 
 To receive a passing grade on this assignment, you should meet all of the content and design requirements listed below as well as all of the requirements listed under "Polish Your Portfolio & Github" in the "Employer Ready" section of the [Employer Ready vs. Employer Competitive Checklist](https://drive.google.com/file/d/0BwhzeIUMYf1nV2JQcGdkU3ktcnFBLUZ4X09VSXliTUtJZWsw/view). These two sets of requirements should be mostly the same.
 
