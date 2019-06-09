@@ -127,6 +127,10 @@ audio:not([controls]) {
 img {
   border-style: none;
 }
+ /* .portPhotos{
+   height: 233px;
+   width: 300px;
+ } */
 
 svg:not(:root) {
   overflow: hidden;
